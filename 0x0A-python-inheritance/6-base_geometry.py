@@ -1,10 +1,16 @@
 #!/usr/bin/python3
-"""Defines a base geometry class BaseGeometry."""
+"""
+This program have an incompleted class
+"""
 
 
-class BaseGeometry:
-    """Represent base geometry."""
+class BaseGeometry():
+    """
+    This class contain a method not implemented
+    """
 
     def area(self):
-        """Not implemented."""
-        raise Exception("area() is not implemented")
+        """
+        This function raise an exception
+        """
+        raise Exception('area() is not implemented')
